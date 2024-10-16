@@ -1,0 +1,2 @@
+# Empty Nuxt Boilerplate
+This is an "empty" Nuxt boilerplate (with only a Content component, rendering the Nuxt pages), and comes with: FontAwesome (free icons), Google Fonts, Tailwind CSS, Pinia, and SASS/SCSS
